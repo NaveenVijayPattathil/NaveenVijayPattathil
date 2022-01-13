@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NaveenVijayPattathil
 - 👀 I’m interested in Coding Coding and Coding
-- 🌱 I’m currently learning DataScience
+
 - 💞️ I’m looking to collaborate on Software project
 - 📫 How to reach me navvij@gmail.com
 
